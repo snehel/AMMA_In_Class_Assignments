@@ -137,7 +137,7 @@ boxplot(mortality ~ ocean,
 # Barplot: Plot Numeric Values for each of categorical values
 
 # Read data
-setwd("C:\\Ram\\General 20150804 v1\\Trainings\\R Programming for Data Science\\data")
+setwd("C:/Users/lenovo/Desktop/Folders/Subjects/Term 4/AMMA")
 
 prd_spend <- read.csv(file = "prod_spend.csv")
 
