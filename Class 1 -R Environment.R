@@ -30,9 +30,9 @@ getwd()
 
 
 
-setwd("C:\\Ram\\General 20150804 v1\\Trainings\\R Programming for Data Science")
+setwd("C:/Users/lenovo/Desktop/Folders/Subjects/Term 4/AMMA")
 ## Notice the direction of the slash (/)
-setwd("C:/Ram/General 20150804 v1/R Training NAB/Day 1")
+setwd("C:/Users/lenovo/Desktop/Folders/Subjects/Term 4/AMMA")
 
 getwd()
 
