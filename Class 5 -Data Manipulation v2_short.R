@@ -3,7 +3,7 @@
 # -----------------------  Read data
 
 # set up library
-setwd("C:\\Ram\\R for Data Science\\data")
+setwd("C:/Users/lenovo/Desktop/Folders/Subjects/Term 4/AMMA")
 # read data
 prd_spend <-read.csv(file="prod_spend.csv",
                      head=T)
